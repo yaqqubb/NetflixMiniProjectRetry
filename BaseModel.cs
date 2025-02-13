@@ -10,7 +10,6 @@ namespace ConsoleNetflix
     {
         private static int _globalId = 1;
         public int Id { get; }
-
         protected BaseModel()
         {
             Id = _globalId++;

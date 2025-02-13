@@ -12,3 +12,4 @@ C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\re
 C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.pdb
 C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.genruntimeconfig.cache
 C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ref\ConsoleNetflix.dll
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.sourcelink.json

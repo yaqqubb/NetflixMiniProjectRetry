@@ -10,15 +10,12 @@ namespace ConsoleNetflix
     {
         public Movie(string title, Genre genre, int viewCount, string description, decimal runTime)
         {
-           
             Title = title;
             Genre = genre;
             ViewCount = viewCount;
             Description = description;
             RunTime = runTime;
         }
-
-       
         public string Title { get; set; }
         public string Description { get; set; }
         public Genre Genre { get; set; }
