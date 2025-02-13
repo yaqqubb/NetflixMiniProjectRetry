@@ -1,0 +1,14 @@
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\bin\Debug\net8.0\ConsoleNetflix.exe
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\bin\Debug\net8.0\ConsoleNetflix.deps.json
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\bin\Debug\net8.0\ConsoleNetflix.runtimeconfig.json
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\bin\Debug\net8.0\ConsoleNetflix.dll
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\bin\Debug\net8.0\ConsoleNetflix.pdb
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.dll
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\refint\ConsoleNetflix.dll
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.pdb
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ConsoleNetflix.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\CodeLab\ConsoleNetflix\ConsoleNetflix\obj\Debug\net8.0\ref\ConsoleNetflix.dll
