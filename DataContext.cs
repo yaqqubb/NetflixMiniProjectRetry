@@ -11,7 +11,6 @@ namespace ConsoleNetflix
     {
         static DataContext _context = new DataContext();
         static User CurrentUser;
-
         public List<Movie> Movies { get; set; } = new List<Movie>();
         public List<Genre> Genres { get; set; } = new List<Genre>();
         public List<User> Users { get; set; } = new List<User>();
@@ -60,6 +59,12 @@ new Movie("Interstellar", sciFi, 190, "A group of astronauts travel through a wo
 new Movie("Deadpool", action, 120, "A former special forces operative turned mercenary gains regenerative healing powers and seeks revenge on the man who disfigured him.", 108.0m),
 new Movie("The Pursuit of Happyness", drama, 110, "Based on a true story, a struggling salesman fights against adversity to create a better life for his son.", 117.0m),
 new Movie("The Big Lebowski", comedy, 110, "A laid-back slacker known as 'The Dude' gets caught up in a series of misadventures involving a millionaire, a kidnapping, and a bowling tournament.", 117.0m)
+        });
+         Users.AddRange(new[]
+     {
+            new User("admin",UserType.Admin, "1234"),
+            new User("user", UserType.User, "1234"),
+            new User("Yaqub", UserType.Admin, "1234")
         });
         }
         internal static void Login()
